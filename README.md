@@ -15,8 +15,8 @@ Projeto de automação RC joysticks -> python -> json -> serv UDP -> esp32 -> rc
 
 ## Preview RC YOUTUBE
 [![Watch the video](https://img.youtube.com/vi/8zilupMO19c/maxresdefault.jpg)](https://youtube.com/shorts/8zilupMO19c?feature=share)
-[![Watch the video](https://img.youtube.com/vi/L9WDpXEnFB8/maxresdefault.jpg)](https://https://youtu.be/L9WDpXEnFB8)
-[![Watch the video](https://img.youtube.com/vi/bNTYHumopc4/maxresdefault.jpg)](https://https://youtu.be/bNTYHumopc4)
+[![Watch the video](https://img.youtube.com/vi/L9WDpXEnFB8/maxresdefault.jpg)](https://youtu.be/L9WDpXEnFB8)
+[![Watch the video](https://img.youtube.com/vi/bNTYHumopc4/maxresdefault.jpg)](https://youtu.be/bNTYHumopc4)
 
 ## Preview RC fotos
 ![20240218_162301](https://github.com/AlbertoGoncalves/rc-car-python-esp32-arduino/assets/91420997/8f247e6b-3d4b-41ab-b27f-d8765bc5c0cc)
